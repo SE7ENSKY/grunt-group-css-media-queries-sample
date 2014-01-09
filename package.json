@@ -1,0 +1,9 @@
+{
+  "name": "grunt-group-css-media-queries-sample",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt-group-css-media-queries": "~1.0.1",
+    "grunt-cli": "~0.1.11",
+    "grunt": "~0.4.2"
+  }
+}
